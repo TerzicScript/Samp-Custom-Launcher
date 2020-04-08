@@ -1,0 +1,10 @@
+c:\users\bloop\documents\visual studio 2015\Projects\KuracPalac\KuracPalac\bin\Debug\KuracPalac.exe.config
+c:\users\bloop\documents\visual studio 2015\Projects\KuracPalac\KuracPalac\bin\Debug\KuracPalac.exe
+c:\users\bloop\documents\visual studio 2015\Projects\KuracPalac\KuracPalac\bin\Debug\KuracPalac.pdb
+c:\users\bloop\documents\visual studio 2015\Projects\KuracPalac\KuracPalac\obj\Debug\KuracPalac.csprojResolveAssemblyReference.cache
+c:\users\bloop\documents\visual studio 2015\Projects\KuracPalac\KuracPalac\obj\Debug\KuracPalac.Form1.resources
+c:\users\bloop\documents\visual studio 2015\Projects\KuracPalac\KuracPalac\obj\Debug\KuracPalac.Properties.Resources.resources
+c:\users\bloop\documents\visual studio 2015\Projects\KuracPalac\KuracPalac\obj\Debug\KuracPalac.csproj.GenerateResource.Cache
+c:\users\bloop\documents\visual studio 2015\Projects\KuracPalac\KuracPalac\obj\Debug\KuracPalac.exe
+c:\users\bloop\documents\visual studio 2015\Projects\KuracPalac\KuracPalac\obj\Debug\KuracPalac.pdb
+c:\users\bloop\documents\visual studio 2015\Projects\KuracPalac\KuracPalac\obj\Debug\KuracPalac.Form2.resources
